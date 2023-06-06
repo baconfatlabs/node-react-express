@@ -1,0 +1,1 @@
+This is a shell project that uses concurrently to host both a React client and Express server on the same port.
